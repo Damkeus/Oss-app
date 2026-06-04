@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="NexAndYou" constructor="PlanningOSS" version="1.0.0"
+           display-name-key="Nex&amp;You — Planning OSS"
+           description-key="Carte EMEA et planning mensuel des absences OSS."
+           control-type="standard">
+    <!-- Propriété liée : chaîne JSON des calendriers (à parser). -->
+    <property name="calendarJson"
+              display-name-key="Calendriers (JSON)"
+              description-key="Chaîne JSON des calendriers/évènements à parser."
+              of-type="Multiple"
+              usage="bound"
+              required="true" />
+
+    <!-- DB Site : tableau JSON [{Zone,Country,city,lat,long,OSS:[...]}] -->
+    <property name="siteJson"
+              display-name-key="Sites (JSON)"
+              description-key="Tableau JSON des sites géolocalisés avec leurs OSS rattachés."
+              of-type="Multiple"
+              usage="input"
+              required="false" />
+
+    <!-- Vue ouverte par défaut. -->
+    <property name="defaultView"
+              display-name-key="Vue par défaut"
+              description-key="Vue affichée à l'ouverture (login | map | gantt)."
+              of-type="SingleLine.Text"
+              usage="input"
+              required="false" />
+
+    <resources>
+      <code path="index.ts" order="1" />
+    </resources>
+
+    <feature-usage>
+      <uses-feature name="WebAPI" required="false" />
+    </feature-usage>
+  </control>
+</manifest>

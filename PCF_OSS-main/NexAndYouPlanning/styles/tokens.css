@@ -1,0 +1,62 @@
+/* ===== Nexans Brand Tokens (scopés au composant) ===== */
+.nxy-root {
+  --nx-red: #ff1910;
+  --nx-red-deep: #c40d04;
+  --nx-orange: #ff8d33;
+  --nx-gradient: linear-gradient(135deg, #ff1910 0%, #ff8d33 100%);
+  --nx-gradient-soft: linear-gradient(135deg, rgba(255, 25, 16, 0.08) 0%, rgba(255, 141, 51, 0.08) 100%);
+
+  --ink: #0a0a0a;
+  --ink-2: #1f1f1f;
+  --ink-3: #3d3d3d;
+  --muted: #6b6b6b;
+  --muted-2: #9a9a9a;
+
+  --surface: #ffffff;
+  --surface-2: #fafafa;
+  --surface-3: #f4f4f4;
+  --line: #e8e8e8;
+  --line-2: #d4d4d4;
+
+  --absent: #fce8d3;
+  --absent-ink: #8a4a1a;
+  --oof: #e2edf6;
+  --oof-ink: #1b4a6b;
+
+  --shadow-sm: 0 1px 2px rgba(10, 10, 10, 0.04), 0 1px 1px rgba(10, 10, 10, 0.03);
+  --shadow-md: 0 4px 12px -2px rgba(10, 10, 10, 0.06), 0 2px 4px rgba(10, 10, 10, 0.04);
+  --shadow-lg: 0 24px 48px -16px rgba(10, 10, 10, 0.12), 0 8px 16px -8px rgba(10, 10, 10, 0.06);
+
+  --radius-sm: 4px;
+  --radius: 8px;
+  --radius-lg: 14px;
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
+  font-family: "Jost", "Inter", system-ui, -apple-system, sans-serif;
+  color: var(--ink);
+  background: var(--surface-2);
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
+.nxy-root *,
+.nxy-root *::before,
+.nxy-root *::after {
+  box-sizing: border-box;
+}
+
+.nxy-root .font-display {
+  font-family: "Outfit", "Jost", system-ui, sans-serif;
+}
+.nxy-root .font-mono {
+  font-family: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nxy-root * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

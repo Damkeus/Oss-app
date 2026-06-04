@@ -1,0 +1,1512 @@
+[
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Brazil",
+    "city": "Rio De Janeiro",
+    "lat": "-22.804157",
+    "long": "-43.347105",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Brazil",
+    "city": "Viana",
+    "lat": "-20.377351",
+    "long": "-40.447514",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Brazil",
+    "city": "Lorena",
+    "lat": "-22.75749600",
+    "long": "-45.12048920",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Sweden",
+    "city": "Grimsås",
+    "lat": "57.48941",
+    "long": "13.54019",
+    "OSS": [
+      "Ben DALE",
+      "Mats LORENTSZON"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "Riihimäki",
+    "lat": "60.769311",
+    "long": "24.797791",
+    "OSS": [
+      "Tarja KYOSTILA",
+      "Tomi LEPISTO"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "Keuruu",
+    "lat": "62.248932",
+    "long": "24.725672",
+    "OSS": [
+      "Tarja KYOSTILA",
+      "Tomi LEPISTO"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "Hyvinkää",
+    "lat": "60.645754",
+    "long": "24.853795",
+    "OSS": [
+      "Tarja KYOSTILA",
+      "Tomi LEPISTO"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "Hyvinkää",
+    "lat": "60.649118",
+    "long": "24.856949",
+    "OSS": [
+      "Tarja KYOSTILA",
+      "Tomi LEPISTO"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Seoul",
+    "lat": "37.5077884",
+    "long": "127.0610455",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Seoul",
+    "lat": "37.5077884",
+    "long": "127.0610455",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Seoul",
+    "lat": "35.166792",
+    "long": "126.853237",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Jincheon",
+    "lat": "36.884014",
+    "long": "127.438431",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Eumseong-gun",
+    "lat": "36.978421",
+    "long": "127.69249",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Cheongju-si",
+    "lat": "36.629305",
+    "long": "127.465324",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Korea",
+    "city": "Busan",
+    "lat": "35.190645",
+    "long": "129.076881",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Japan",
+    "city": "Futtsu-shi",
+    "lat": "35.728677",
+    "long": "139.685211",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Italy",
+    "city": "Pomezia",
+    "lat": "46.0999",
+    "long": "9.749451",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Italy",
+    "city": "Offida",
+    "lat": "42.94235",
+    "long": "13.701954",
+    "OSS": [
+      "Filippo BOTTONE"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Italy",
+    "city": "Limito di Pioltello",
+    "lat": "45.488088",
+    "long": "9.333569",
+    "OSS": [
+      "Filippo BOTTONE"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Italy",
+    "city": "Battipaglia",
+    "lat": "40.612649",
+    "long": "14.983234",
+    "OSS": [
+      "Filippo BOTTONE"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Indonesia",
+    "city": "Jakarta",
+    "lat": "-6.195168",
+    "long": "106.843986",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "India",
+    "city": "New Deli",
+    "lat": "28.6265165",
+    "long": "77.2226191",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Greece",
+    "city": "Thessaloniki",
+    "lat": "40.652513",
+    "long": "22.942085",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Greece",
+    "city": "Stylis",
+    "lat": "38.953001",
+    "long": "22.444611",
+    "OSS": [
+      "Efthymios Kougias"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Greece",
+    "city": "Ag. Ioannis Rentis",
+    "lat": "37.989128",
+    "long": "23.715248",
+    "OSS": [
+      "Efthymios Kougias"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Ghana",
+    "city": "Tema",
+    "lat": "5.673043",
+    "long": "-0.01585",
+    "OSS": [
+      "Nana Yaw ADJEI",
+      "Kinsgley ATADANA"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Germany",
+    "city": "Essen",
+    "lat": "51.500515",
+    "long": "6.997519",
+    "OSS": [
+      "Thomas EICHHORN"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Germany",
+    "city": "Nürnberg",
+    "lat": "49.460091",
+    "long": "11.079597",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Germany",
+    "city": "Mönchengladbach",
+    "lat": "51.201291",
+    "long": "6.44474",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Germany",
+    "city": "Hof",
+    "lat": "50.325299",
+    "long": "11.917305",
+    "OSS": [
+      "Thomas EICHHORN"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Germany",
+    "city": "Hannover",
+    "lat": "52.41758340",
+    "long": "9.72355840",
+    "OSS": [
+      "Fadi DAUD"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Germany",
+    "city": "Floß",
+    "lat": "49.72914",
+    "long": "12.274418",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Vrigne-aux-Bois",
+    "lat": "49.739014",
+    "long": "4.85816",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Plainfaing",
+    "lat": "48.178907",
+    "long": "7.014656",
+    "OSS": [
+      "Thibaut DARDART"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Paillart",
+    "lat": "49.668294",
+    "long": "2.323751",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Nanterre",
+    "lat": "48.89655",
+    "long": "2.214718",
+    "OSS": [
+      "Serge AFFOGNON"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Nanterre",
+    "lat": "48.912989",
+    "long": "2.2098441",
+    "OSS": [
+      "Serge AFFOGNON"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Mehun-sur-Yèvre",
+    "lat": "47.151435",
+    "long": "2.217464",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Lyon",
+    "lat": "45.770876",
+    "long": "4.834957",
+    "OSS": [
+      "Vincent BLANCHARD"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "LYON",
+    "lat": "45.7235806",
+    "long": "4.8450981",
+    "OSS": [
+      "Maxence DELACROIX"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Lens",
+    "lat": "50.433673",
+    "long": "2.831326",
+    "OSS": [
+      "Alain TAQUET",
+      "Pascal HUGOT"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "La Verpillière",
+    "lat": "45.642368",
+    "long": "5.153418",
+    "OSS": [
+      "Maxence DELACROIX"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Jeumont",
+    "lat": "50.298003",
+    "long": "4.101133",
+    "OSS": [
+      "Thibaut DARDART"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Fumay",
+    "lat": "50.005532",
+    "long": "4.703407",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Draveil",
+    "lat": "48.69028",
+    "long": "2.407322",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Donchery",
+    "lat": "49.709491",
+    "long": "4.877625",
+    "OSS": [
+      "Thibaut DARDART"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Calais",
+    "lat": "50.955399",
+    "long": "1.859722",
+    "OSS": [
+      "Youssef EL OUAHMANI"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Bourg-en-Bresse",
+    "lat": "46.208349",
+    "long": "5.220509",
+    "OSS": [
+      "Guillaume Valery"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Bohain-en-Vermandois",
+    "lat": "49.990084",
+    "long": "3.453083",
+    "OSS": [
+      "Pascal HUGOT"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Autun",
+    "lat": "46.957058",
+    "long": "4.30212",
+    "OSS": [
+      "Guillaume Valery"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Andrézieux-Bouthéon",
+    "lat": "45.531365",
+    "long": "4.260921",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "France",
+    "city": "Paris La Défense",
+    "lat": "48.89508",
+    "long": "2.236897",
+    "OSS": [
+      "Romain CHALUMEAU",
+      "Lilian MEUNIER",
+      "Lionel MONCLER",
+      "Sebastien REGNIER",
+      "Kofi CUMMINGS",
+      "Serge AFOGNON"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "Jorvas",
+    "lat": "60.1312305",
+    "long": "24.5140059",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "Hämeenlinna",
+    "lat": "61.021048",
+    "long": "24.457855",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Finland",
+    "city": "PORVOO",
+    "lat": "60.396259307861",
+    "long": "25.663734436035",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Denmark",
+    "city": "Viborg",
+    "lat": "56.44884",
+    "long": "9.35622",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Czech Republic",
+    "city": "Touzim",
+    "lat": "50.06904",
+    "long": "12.986412",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Czech Republic",
+    "city": "Mariánské Lázne",
+    "lat": "49.975514",
+    "long": "12.701454",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Czech Republic",
+    "city": "Kynsperk",
+    "lat": "50.12344",
+    "long": "12.531223",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Ecuador",
+    "city": "Quito",
+    "lat": "-0.20467",
+    "long": "-78.48488",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Colombia",
+    "city": "Bucaramanga",
+    "lat": "7.130191",
+    "long": "-73.117561",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Colombia",
+    "city": "Yumbo",
+    "lat": "3.51998",
+    "long": "-76.52893",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Tianjin",
+    "lat": "39.093853117696",
+    "long": "117.6469176523",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Tieling City",
+    "lat": "42.4654038",
+    "long": "123.5680959",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Jingsu",
+    "lat": "31.179912",
+    "long": "120.675472",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Tianjin",
+    "lat": "39.027719",
+    "long": "117.641258",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Shanghai",
+    "lat": "31.2356887",
+    "long": "121.4797008",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Shanghai",
+    "lat": "31.2356887",
+    "long": "121.4797008",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Shanghai",
+    "lat": "31.2356887",
+    "long": "121.4797008",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Shandong",
+    "lat": "36.0849745",
+    "long": "120.3741802",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "China",
+    "city": "Hong Kong",
+    "lat": "22.252877",
+    "long": "114.202824",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Chile",
+    "city": "Santiago",
+    "lat": "-33.499314",
+    "long": "-70.648293",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Canada",
+    "city": "Weyburn",
+    "lat": "49.665406",
+    "long": "-103.853273",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Canada",
+    "city": "Montreal-East",
+    "lat": "45.528479",
+    "long": "-73.549576",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Canada",
+    "city": "Thornhill",
+    "lat": "43.839433",
+    "long": "-79.381039",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Canada",
+    "city": "Fergus",
+    "lat": "43.706911",
+    "long": "-80.377965",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Bulgaria",
+    "city": "Pleven",
+    "lat": "43.4296639",
+    "long": "24.5911731",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Bulgaria",
+    "city": "Sofia",
+    "lat": "42.7291864",
+    "long": "23.2537928",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Brazil",
+    "city": "Americana",
+    "lat": "-22.73763420",
+    "long": "-47.33066020",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Brazil",
+    "city": "Rio de Janeiro",
+    "lat": "-22.836946",
+    "long": "-43.20694",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Uccle",
+    "lat": "50.8268132",
+    "long": "4.3405148",
+    "OSS": [
+      "Felipe VARA"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Huizingen",
+    "lat": "50.831096",
+    "long": "4.331932",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Frameries",
+    "lat": "50.40436",
+    "long": "3.899403",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Erembodegem",
+    "lat": "50.921703",
+    "long": "4.060893",
+    "OSS": [
+      "Felipe VARA"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Elouges",
+    "lat": "50.403868",
+    "long": "3.751903",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Charleroi",
+    "lat": "50.421644",
+    "long": "4.443169",
+    "OSS": [
+      "Youssef EL OUAHMANI"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Buizingen",
+    "lat": "50.681667",
+    "long": "4.224815",
+    "OSS": [
+      "Felipe VARA"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Buizingen",
+    "lat": "50.681667",
+    "long": "4.224815",
+    "OSS": [
+      "Felipe VARA"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Belgium",
+    "city": "Huizingen",
+    "lat": "50.7575125",
+    "long": "4.2644972",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Azerbaijan",
+    "city": "Baku",
+    "lat": "40.461577",
+    "long": "49.861221",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Australia",
+    "city": "Thomastown",
+    "lat": "-37.6858615",
+    "long": "145.026445",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Australia",
+    "city": "Forrestfield",
+    "lat": "-31.96093",
+    "long": "115.986081",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Australia",
+    "city": "Geebung",
+    "lat": "-27.3649341",
+    "long": "153.0582091",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Australia",
+    "city": "Wetherill Park",
+    "lat": "-34.4874565",
+    "long": "150.7739615",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Australia",
+    "city": "Melbourne",
+    "lat": "-37.81016",
+    "long": "144.96871",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Australia",
+    "city": "Lilydale",
+    "lat": "-37.7561048",
+    "long": "145.3432328",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Algeria",
+    "city": "Alger",
+    "lat": "36.7426655",
+    "long": "3.0434333",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Vietnam",
+    "city": "Hanoi",
+    "lat": "21.024004",
+    "long": "105.841985",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "New York",
+    "lat": "40.7622921",
+    "long": "-73.97291587",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "Middletown",
+    "lat": "41.4581521",
+    "long": "-74.3578071",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "Tooele",
+    "lat": "40.528104",
+    "long": "-112.326536",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "San Antonio",
+    "lat": "29.5558004",
+    "long": "-98.4843698",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "Houston",
+    "lat": "29.860818",
+    "long": "-95.559297",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "Goose Creek",
+    "lat": "33.017692",
+    "long": "-79.925054",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United States",
+    "city": "El Dorado",
+    "lat": "33.20108",
+    "long": "-92.619252",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United Kingdom",
+    "city": "Edinburgh",
+    "lat": "55.9503473",
+    "long": "-3.2100998",
+    "OSS": [
+      "Alan JONES",
+      "Stuart DOUBELL"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United Kingdom",
+    "city": "Milton Keynes",
+    "lat": "52.042619",
+    "long": "-0.760131",
+    "OSS": [
+      "Alan JONES",
+      "Stuart DOUBELL"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United Kingdom",
+    "city": "Castleford",
+    "lat": "53.84321",
+    "long": "-1.337986",
+    "OSS": [
+      "Alan JONES",
+      "Stuart DOUBELL"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United Arab Emirates",
+    "city": "Dubai",
+    "lat": "25.0799974",
+    "long": "55.1533662",
+    "OSS": [
+      "Yasar THEKKAVIL"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "lat": "24.4903175",
+    "long": "54.3790114",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Ukraine",
+    "city": "Zolochiv",
+    "lat": "49.808821",
+    "long": "24.913827",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Ukraine",
+    "city": "Peremyschljany",
+    "lat": "49.672294",
+    "long": "24.56008",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Ukraine",
+    "city": "Kyiv",
+    "lat": "50.45028",
+    "long": "30.477072",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Turkey",
+    "city": "Ankara",
+    "lat": "39.914326",
+    "long": "32.80889",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Turkey",
+    "city": "Istanbul",
+    "lat": "40.859006",
+    "long": "29.295616",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Turkey",
+    "city": "Istanbul",
+    "lat": "41.067915",
+    "long": "29.001095",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Turkey",
+    "city": "Denizli",
+    "lat": "37.788624",
+    "long": "29.086189",
+    "OSS": [
+      "Nail ALTUN"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Thailand",
+    "city": "Bangkok",
+    "lat": "13.854081",
+    "long": "100.670242",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Tunisia",
+    "city": "Ksar Hellal",
+    "lat": "35.650462",
+    "long": "10.900025",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Tunisia",
+    "city": "Messadine",
+    "lat": "35.7594178",
+    "long": "10.5943216",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Switzerland",
+    "city": "Sulgen",
+    "lat": "47.5400465",
+    "long": "9.1815403",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Switzerland",
+    "city": "Cortaillod",
+    "lat": "46.944989",
+    "long": "6.846857",
+    "OSS": [
+      "Camille ABESSOU"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Sweden",
+    "city": "Örnsköldsvik",
+    "lat": "63.2910056",
+    "long": "18.7190598",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Sweden",
+    "city": "Sandviken",
+    "lat": "60.6347411",
+    "long": "16.7875841",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Sweden",
+    "city": "Halmstad",
+    "lat": "56.663774",
+    "long": "12.87632",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Sweden",
+    "city": "Molndal",
+    "lat": "57.6742333",
+    "long": "12.0939664",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Sweden",
+    "city": "GISLAVED",
+    "lat": "57.338381",
+    "long": "13.531952",
+    "OSS": [
+      "Ben DALE",
+      "Mats LORENTSZON"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Spain",
+    "city": "Hernani",
+    "lat": "43.272362",
+    "long": "-1.964858",
+    "OSS": [
+      "Carlos Robles",
+      "Soportespain SI"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Spain",
+    "city": "Madrid",
+    "lat": "40.432314",
+    "long": "-3.698502",
+    "OSS": [
+      "Carlos Robles",
+      "Soportespain SI"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Spain",
+    "city": "Pozuelo de Alarcón",
+    "lat": "40.4406274",
+    "long": "-3.7860753",
+    "OSS": [
+      "Carlos Robles",
+      "Soportespain SI"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Spain",
+    "city": "Getxo",
+    "lat": "43.350148",
+    "long": "-3.006878",
+    "OSS": [
+      "Carlos Robles",
+      "Soportespain SI"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Spain",
+    "city": "Granollers",
+    "lat": "41.39999",
+    "long": "2.171059",
+    "OSS": [
+      "Carlos Robles",
+      "Soportespain SI"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "South Africa",
+    "city": "Midrand",
+    "lat": "-26.014347",
+    "long": "28.127511",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Slovakia",
+    "city": "Trebisov",
+    "lat": "48.641076",
+    "long": "21.71711",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Singapore",
+    "city": "Singapore",
+    "lat": "1.303141",
+    "long": "103.843918",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Singapore",
+    "city": "Singapore",
+    "lat": "1.303141",
+    "long": "103.843918",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Senegal",
+    "city": "Dakar",
+    "lat": "14.743758",
+    "long": "-17.393898",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Romania",
+    "city": "Santana",
+    "lat": "46.352023",
+    "long": "21.500559",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Romania",
+    "city": "Pancota",
+    "lat": "46.324883",
+    "long": "21.687155",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Romania",
+    "city": "Chisineu-Cris",
+    "lat": "44.448487",
+    "long": "26.094475",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Romania",
+    "city": "Chisineu-Cris",
+    "lat": "46.172223",
+    "long": "21.316166",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Romania",
+    "city": "Chisineu-Cris",
+    "lat": "46.172223",
+    "long": "21.316166",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Romania",
+    "city": "Bucharest",
+    "lat": "44.448487",
+    "long": "26.094475",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Qatar",
+    "city": "Mesaieed",
+    "lat": "24.9819648",
+    "long": "51.5525726",
+    "OSS": [
+      "Yasar THEKKAVIL"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Poland",
+    "city": "Szczecin",
+    "lat": "53.403575694257",
+    "long": "14.718143284336",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Poland",
+    "city": "Racibórz",
+    "lat": "50.0881053",
+    "long": "18.1656406",
+    "OSS": [
+      "Jaroslav MURAS"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Poland",
+    "city": "Racibórz",
+    "lat": "50.101863",
+    "long": "18.209438",
+    "OSS": [
+      "Jaroslav MURAS"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Philippines",
+    "city": "Pasig City",
+    "lat": "14.582587",
+    "long": "121.085415",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Peru",
+    "city": "Lima",
+    "lat": "-11.977532",
+    "long": "-77.020111",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Norway",
+    "city": "Sandefjord",
+    "lat": "59.1774115",
+    "long": "10.2190775",
+    "OSS": [
+      "Christy AKSELSEN",
+      "Mohamed HASSAN"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Norway",
+    "city": "Rognan",
+    "lat": "67.095777",
+    "long": "15.388055",
+    "OSS": [
+      "Jon Bodker",
+      "Roy KRISTENSEN"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Norway",
+    "city": "Oslo",
+    "lat": "59.90286960",
+    "long": "10.78477380",
+    "OSS": [
+      "Christy AKSELSEN",
+      "Mohamed HASSAN"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Norway",
+    "city": "Langhus",
+    "lat": "59.7691111",
+    "long": "10.8409593",
+    "OSS": [
+      "Nasar SHARIF"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Norway",
+    "city": "Halden",
+    "lat": "59.1181888",
+    "long": "11.3243508",
+    "OSS": [
+      "Daniel NILSEN",
+      "Ramal AFZAL",
+      "Espen BERGSTROM"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Norway",
+    "city": "Gamle Fredrikstad",
+    "lat": "59.188788",
+    "long": "10.969534",
+    "OSS": [
+      "Daniel NILSEN",
+      "Ramal AFZAL",
+      "Espen BERGSTROM"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "New Zealand",
+    "city": "New Plymouth",
+    "lat": "-39.044786",
+    "long": "174.074821",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "New Zealand",
+    "city": "Christchurch",
+    "lat": "-43.502745",
+    "long": "172.634811",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "New Zealand",
+    "city": "Auckland",
+    "lat": "-36.8975586",
+    "long": "174.8084456",
+    "OSS": []
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Netherlands",
+    "city": "Schiedam",
+    "lat": "51.921826",
+    "long": "4.397564",
+    "OSS": [
+      "Felipe VARA"
+    ]
+  },
+  {
+    "Zone": "Zone Euro",
+    "Country": "Netherlands",
+    "city": "Schiedam",
+    "lat": "51.921826",
+    "long": "4.397564",
+    "OSS": [
+      "Felipe VARA"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Morocco",
+    "city": "Mohammedia",
+    "lat": "33.68447",
+    "long": "-7.397854",
+    "OSS": [
+      "El Mehdi BENCHRIF"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Morocco",
+    "city": "Casablanca",
+    "lat": "33.619194",
+    "long": "-7.633553",
+    "OSS": [
+      "Khalid MALKI"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Morocco",
+    "city": "Casablanca",
+    "lat": "33.5848033",
+    "long": "-7.5193093",
+    "OSS": [
+      "Khalid MALKI"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Mexico",
+    "city": "Sabinas Coahuila",
+    "lat": "24.2686007",
+    "long": "-100.3831891",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Mexico",
+    "city": "Piedras Negras Coahuila",
+    "lat": "28.703236",
+    "long": "-100.52599",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Mexico",
+    "city": "Nava Coahuila",
+    "lat": "28.422165",
+    "long": "-100.768318",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Lithuania",
+    "city": "Vilnius",
+    "lat": "54.6713",
+    "long": "25.26152",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Lithuania",
+    "city": "Vilnius",
+    "lat": "54.6713",
+    "long": "25.26152",
+    "OSS": []
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Lebanon",
+    "city": "Jbeil",
+    "lat": "33.896317",
+    "long": "35.510942",
+    "OSS": [
+      "Carla NADER"
+    ]
+  },
+  {
+    "Zone": "Hors Zone Euro",
+    "Country": "Lebanon",
+    "city": "Beirut",
+    "lat": "33.890296",
+    "long": "35.49561",
+    "OSS": [
+      "Carla NADER"
+    ]
+  }
+]
