@@ -41,7 +41,7 @@ export interface ISite {
   employees: IEmployee[];
 }
 
-export type RegionCode = "FR" | "DE" | "BNL" | "SC" | "SE" | "EE" | "MERA" | "OTHER";
+export type RegionCode = "EU_APAC" | "MERA_MEA" | "NAM" | "SAM" | "OTHER";
 
 /** Vue active de l'application. */
 export type ViewName = "login" | "map" | "gantt";

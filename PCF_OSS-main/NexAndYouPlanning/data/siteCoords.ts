@@ -97,35 +97,47 @@ export function resolveCoords(location: string): ICityCoord | null {
 /** Mapping pays -> région (tolérant aux coquilles de l'Excel). */
 export function countryToRegion(country: string): RegionCode {
   const c = normalize(country);
-  if (c.includes("france")) return "FR";
-  if (c.includes("germany") || c.includes("allemagne")) return "DE";
-  if (c.includes("belg") || c.includes("netherl") || c === "nl" || c.includes("uk") || c.includes("united kingdom"))
-    return "BNL";
-  if (c.includes("norway") || c.includes("normay") || c.includes("sweden") || c.includes("finland") || c.includes("denmark"))
-    return "SC";
-  if (c.includes("italy") || c.includes("spain") || c.includes("greece") || c.includes("suisse") || c.includes("switz") || c.includes("portugal"))
-    return "SE";
-  if (c === "cz" || c.includes("czech") || c.includes("poland") || c.includes("gs_eu")) return "EE";
+  // MERA MEA — Moyen-Orient, Afrique, Turquie
   if (
-    c.includes("ghana") || c.includes("coast") || c.includes("leb") || c.includes("morocco") ||
-    c.includes("qatar") || c.includes("uea") || c.includes("uae") || c.includes("turkey")
+    c.includes("ghana") || c.includes("coast") || c.includes("leb") || c.includes("lebonon") ||
+    c.includes("morocco") || c.includes("qatar") || c.includes("uea") || c.includes("uae") ||
+    c.includes("turkey") || c.includes("saudi") || c.includes("egypt") || c.includes("algeria") ||
+    c.includes("nigeria") || c.includes("kenya") || c.includes("senegal") || c.includes("tunisi")
   )
-    return "MERA";
+    return "MERA_MEA";
+  // NAM — Amérique du Nord
+  if (c.includes("usa") || c.includes("united states") || c.includes("canada") || c.includes("mexico"))
+    return "NAM";
+  // SAM — Amérique du Sud
+  if (
+    c.includes("brazil") || c.includes("bresil") || c.includes("argentina") ||
+    c.includes("chile") || c.includes("colombia") || c.includes("peru")
+  )
+    return "SAM";
+  // EU APAC — Europe + Asie-Pacifique
+  if (
+    c.includes("france") || c.includes("germany") || c.includes("allemagne") ||
+    c.includes("belg") || c.includes("netherl") || c === "nl" || c.includes("uk") || c.includes("united kingdom") ||
+    c.includes("norway") || c.includes("normay") || c.includes("sweden") || c.includes("finland") || c.includes("denmark") ||
+    c.includes("italy") || c.includes("spain") || c.includes("greece") || c.includes("suisse") || c.includes("switz") || c.includes("portugal") ||
+    c === "cz" || c.includes("czech") || c.includes("poland") || c.includes("gs_eu") ||
+    c.includes("austria") || c.includes("romania") || c.includes("hungary") ||
+    c.includes("japan") || c.includes("china") || c.includes("australia") || c.includes("india") ||
+    c.includes("singapore") || c.includes("korea") || c.includes("vietnam") || c.includes("thailand")
+  )
+    return "EU_APAC";
   return "OTHER";
 }
 
 export const REGION_LABELS: Record<RegionCode, string> = {
-  FR: "France",
-  DE: "Allemagne",
-  BNL: "Benelux / UK",
-  SC: "Nordics",
-  SE: "Europe Sud",
-  EE: "Europe Est",
-  MERA: "MERA",
+  EU_APAC: "EU APAC",
+  MERA_MEA: "MERA MEA",
+  NAM: "NAM",
+  SAM: "SAM",
   OTHER: "Autre",
 };
 
 /** Drapeau emoji indicatif par région (purement décoratif). */
 export const REGION_FLAGS: Record<RegionCode, string> = {
-  FR: "🇫🇷", DE: "🇩🇪", BNL: "🇧🇪", SC: "🇸🇪", SE: "🇮🇹", EE: "🇵🇱", MERA: "🌍", OTHER: "🏳️",
+  EU_APAC: "🌍", MERA_MEA: "🌍", NAM: "🌎", SAM: "🌎", OTHER: "🏳️",
 };
